@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mpdf/mpdf": "^6.1",
+        "laravel/installer": "^5.7"
+    }
+}
